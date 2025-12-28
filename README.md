@@ -1,9 +1,5 @@
 # Telco Customer Churn Prediction
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5-orange)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A machine learning project to predict customer churn in a telecommunications company using **Logistic Regression**.
 
 ## Project Overview
